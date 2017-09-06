@@ -1,6 +1,6 @@
 ## 欢迎来到我的博客，不会设计很尴尬
 
-没什么东西给你们看，你可以访问我的 [qq空间](https://user.qzone.qq.com/765605310/infocenter) 
+没什么东西给你们看，你可以访问我的 [qq空间](https://user.qzone.qq.com/765605310) 
 
 ### 想和我一样搭建一个属于自己博客吗？
 [搭建步骤,请参考另一个老哥的博客](http://blog.csdn.net/ainuser/article/details/77609180)
